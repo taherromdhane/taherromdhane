@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=326CE5)
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/-Slack-informational?style=flat&logo=Slack&logoColor=white&color=4A154B)
+![](https://img.shields.io/badge/-Jira-informational?style=flat&logo=Jira&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/-Trello-informational?style=flat&logo=Trello&logoColor=white&color=0079BF)
 
 - **Cloud :**
 
