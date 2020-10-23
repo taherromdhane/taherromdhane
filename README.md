@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Technologies & Tools 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<https://simpleicons.org/icons/python.svg>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<img src="https://simpleicons.org/icons/python.svg">&logoColor=white&color=2bbc8a)
 
