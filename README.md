@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📫 How to reach me:
-You can find me on [![LinkedIn][1.1]][1], or send me an email here : *romdhane.attaher@gmail.com* .
+You can find me on Linkedin [![LinkedIn][1.1]][1], or send me an email here : *romdhane.attaher@gmail.com* .
 
 <!-- Icons -->
 
