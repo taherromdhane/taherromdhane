@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ### 📫 How to reach me:
-You can find me on [![LinkedIn][3.2]][3], or send me an email here : *romdhane.attaher@gmail.com* .
+You can find me on [![LinkedIn][1.1]][1], or send me an email here : *romdhane.attaher@gmail.com* .
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/taher-romdhane/
+[1]: https://www.linkedin.com/in/taher-romdhane/
 
 ### Technologies & Tools 
 - **Code :**
