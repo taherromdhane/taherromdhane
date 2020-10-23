@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Taher Romdhane, an engineering student at Telecom Paris. I am majoring in Data Science, and I like to code and work on innovative projects ! 
+
 <!--
 **taherromdhane/taherromdhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
