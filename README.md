@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![Taher's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Taher's github stats](https://github-readme-stats.vercel.app/api?username=taherromdhane)](https://github.com/taherromdhane/github-readme-stats)
