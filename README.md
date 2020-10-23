@@ -54,3 +54,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 
+### Github Stats
+
+[![Taher's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
