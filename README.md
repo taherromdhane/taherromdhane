@@ -67,7 +67,3 @@ I am interested in everything Software Engineering and Data Science, and I like 
 ![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=326CE5)
 ![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
-
-### Github Stats
-
-[![Taher's github stats](https://github-readme-stats.vercel.app/api?username=taherromdhane)](https://github.com/taherromdhane/github-readme-stats)
